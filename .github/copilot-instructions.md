@@ -5,7 +5,6 @@ Before committing code changes:
 - [ ] `npm run build` succeeds
 - [ ] `npm test` passes
 
-
 ## Architecture
 
 **State separation**: `useBingoGame` hook wraps pure functions from `bingoLogic.ts` (zero React deps). Components receive `board`, `winningSquareIds`, callbacks.
