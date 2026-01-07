@@ -7,6 +7,9 @@ Before committing code changes:
 
 ## Architecture
 
+
+
+
 **State separation**: `useBingoGame` hook wraps pure functions from `bingoLogic.ts` (zero React deps). Components receive `board`, `winningSquareIds`, callbacks.
 
 **3-state machine**: `GameState = 'start' | 'playing' | 'bingo'`. App.tsx conditionally renders StartScreen OR GameScreen+BingoModal.
