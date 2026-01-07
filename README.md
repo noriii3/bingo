@@ -10,7 +10,7 @@
 [![Built with React](https://img.shields.io/badge/React-19-61dafb.svg)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8.svg)](https://tailwindcss.com/)
 
-[🎮 Play Demo](https://noriii3.github.io/bingo/) • [📖 Lab Guide](.lab/GUIDE.md) • [🤝 Contributing](CONTRIBUTING.md)
+[🎮 Live Demo](https://noriii3.github.io/bingo/) • [📖 Lab Guide](.lab/GUIDE.md) • [🤝 Contributing](CONTRIBUTING.md)
 
 </div>
 
